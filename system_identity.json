@@ -1,0 +1,25 @@
+{
+    "version": "1.0.0-beta.9",
+    "serialNumber": "CN07191202",
+    "productNumber": "2Y9H1A",
+    "deviceUuid": "e7694554-f20a-4f16-b11e-fab61b21466b",
+    "manufacturer": "HP",
+    "skuIdentifier": "Beam",
+    "derivativeNumber": "0x05",
+    "makeAndModel": {
+        "name": "HP DesignJet T950",
+        "base": "HP DesignJet T950",
+        "family": "HP DesignJet"
+    },
+    "serviceId": "02243",
+    "installDate": "2021-09-03T09:37:39Z",
+    "deviceLanguage": "en",
+    "countryRegion": "US",
+    "firmwareVersion": "6.5.0.268+3e6e7d1a-202111190953",
+    "firmwareRelease": "6.5",
+    "firmwareDateCode": "202111190953",
+    "recoveryFirmwareVersion": "",
+    "recoveryFirmwareRelease": "",
+    "recoveryFirmwareDateCode": "",
+    "firmwareCompatibilityId": "6C7366-0005"
+}
